@@ -1,0 +1,14 @@
+body{
+    background-color: azure;
+    
+}
+h1{
+    color: black;
+    text-align: justify
+}
+li{
+    list-style: none;
+    font-size: 25px;
+    padding: 15px;
+    
+}
